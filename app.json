@@ -19,7 +19,7 @@
              },
             "ANTI_BOT": {
             "description": "",
-            "value": "false" ,    
+            "value": "true" ,    
             "required": true
              },
             "ANTI_SPAM": {
@@ -29,7 +29,7 @@
              },
             "ONLY_GROUP": {
             "description": "",
-            "value": "false" ,    
+            "value": "true" ,    
             "required": true
              },
              "REMOVE_BG_API_KEY": {
@@ -38,12 +38,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "Arnold Dragneel" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "228 99581320" ,
             "required": true
              },
        
@@ -75,22 +75,22 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 Arnold Dragneel ²0²3" ,
             "required": true
       },
      "ANTI_LINK": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Arnold Dragneel²0²3" ,
             "required": true
       },
        "INBOX_BLOCK": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
       },
        "INBOX_BLOCK_MSG": {
@@ -141,7 +141,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲Αrnold 🤠❤࿐" ,
             "required": true
       },
           "WORK_TYPE": {
@@ -186,12 +186,12 @@
       },
         "PROMOTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "true" ,
             "required": true
       },
          "DEMOTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "true" ,
             "required": true
       },
          "MUTE_MESSAGE": {
